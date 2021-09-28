@@ -5,11 +5,17 @@ Outline
 We break the notebook into separate steps. Outline and nevigation as below.
 
 Step 0: Set Enviroment
+
 Step 1: Data Exploration
+
 Step 2: Data Pre-processing
+
 Step 3: Feature Importance Analysis
+
 Step 4: Models
+
 Step 5: Optimization
+
 Step 6: Conclusion
 
 
